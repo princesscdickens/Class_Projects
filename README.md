@@ -13,7 +13,7 @@ If you try to compile and get an error "fatal error: 'bits/stdc++.h' file not fo
  stdc++.h (In repository)
 
 To run:
-Make sure you're in the same directory as the executable "run_game" and type in:
+Make sure you're in the same directory as the executable "file_name_executable" and type in:
 ./file_name_executable
 
-Alternatively, you can just download the already-compiled executable game_executable and run it with ./game_executable
+Alternatively, you can just download the already-compiled "game_executable" from the repository and run it with ./game_executable
