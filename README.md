@@ -1,4 +1,4 @@
-# Class_Projects
+# Game of Thrones 
 GOT is a text-based command-line game based on the popular television series (Game of Thrones) I made as my final project for an introductory course in C++. 
 
 To compile:
@@ -15,3 +15,5 @@ If you try to compile and get an error "fatal error: 'bits/stdc++.h' file not fo
 To run:
 Make sure you're in the same directory as the executable "run_game" and type in:
 ./file_name_executable
+
+Alternatively, you can just download the already-compiled executable game_executable and run it with ./game_executable
